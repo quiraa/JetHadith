@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FindHadith"
+rootProject.name = "JetHadith"
 include(":app")
